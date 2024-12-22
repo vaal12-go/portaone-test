@@ -1,5 +1,3 @@
-
-
 class Fragment:
     def __init__(self, fragmentStr):
         self.fullStr = fragmentStr.strip()
